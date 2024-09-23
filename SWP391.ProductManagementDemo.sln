@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMS.Repository", "PMS.Repository\PMS.Repository.csproj", "{036CE69C-2F4A-478F-B351-AD3A9C1882C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMS.APIService", "PMS.APIService\PMS.APIService.csproj", "{160EA105-0FF6-496D-9A00-A6B1A3D4AF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036CE69C-2F4A-478F-B351-AD3A9C1882C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036CE69C-2F4A-478F-B351-AD3A9C1882C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036CE69C-2F4A-478F-B351-AD3A9C1882C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036CE69C-2F4A-478F-B351-AD3A9C1882C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160EA105-0FF6-496D-9A00-A6B1A3D4AF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160EA105-0FF6-496D-9A00-A6B1A3D4AF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160EA105-0FF6-496D-9A00-A6B1A3D4AF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160EA105-0FF6-496D-9A00-A6B1A3D4AF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED11EF9F-18A3-4C63-ADF7-1277C1237879}
+	EndGlobalSection
+EndGlobal
